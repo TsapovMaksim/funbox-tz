@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.db5f7f03.chunk.css",
-    "main.js": "/static/js/main.def8f6ce.chunk.js",
-    "main.js.map": "/static/js/main.def8f6ce.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7672b350.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7672b350.js.map",
-    "static/css/2.764ccc25.chunk.css": "/static/css/2.764ccc25.chunk.css",
-    "static/js/2.78d46507.chunk.js": "/static/js/2.78d46507.chunk.js",
-    "static/js/2.78d46507.chunk.js.map": "/static/js/2.78d46507.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dde395cff62c6b144dcd2f2c56c1cf37.js": "/precache-manifest.dde395cff62c6b144dcd2f2c56c1cf37.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.db5f7f03.chunk.css.map": "/static/css/main.db5f7f03.chunk.css.map",
-    "static/js/2.78d46507.chunk.js.LICENSE.txt": "/static/js/2.78d46507.chunk.js.LICENSE.txt",
-    "static/media/all.scss": "/static/media/cat.6d125f37.png"
+    "main.css": "/funbox-tz/static/css/main.4ddebf98.chunk.css",
+    "main.js": "/funbox-tz/static/js/main.def8f6ce.chunk.js",
+    "main.js.map": "/funbox-tz/static/js/main.def8f6ce.chunk.js.map",
+    "runtime-main.js": "/funbox-tz/static/js/runtime-main.767809e6.js",
+    "runtime-main.js.map": "/funbox-tz/static/js/runtime-main.767809e6.js.map",
+    "static/css/2.764ccc25.chunk.css": "/funbox-tz/static/css/2.764ccc25.chunk.css",
+    "static/js/2.78d46507.chunk.js": "/funbox-tz/static/js/2.78d46507.chunk.js",
+    "static/js/2.78d46507.chunk.js.map": "/funbox-tz/static/js/2.78d46507.chunk.js.map",
+    "index.html": "/funbox-tz/index.html",
+    "precache-manifest.9b91330e06a5fcb0e3faedfe0c2bc9f9.js": "/funbox-tz/precache-manifest.9b91330e06a5fcb0e3faedfe0c2bc9f9.js",
+    "service-worker.js": "/funbox-tz/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/funbox-tz/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.4ddebf98.chunk.css.map": "/funbox-tz/static/css/main.4ddebf98.chunk.css.map",
+    "static/js/2.78d46507.chunk.js.LICENSE.txt": "/funbox-tz/static/js/2.78d46507.chunk.js.LICENSE.txt",
+    "static/media/all.scss": "/funbox-tz/static/media/cat.6d125f37.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7672b350.js",
+    "static/js/runtime-main.767809e6.js",
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.78d46507.chunk.js",
-    "static/css/main.db5f7f03.chunk.css",
+    "static/css/main.4ddebf98.chunk.css",
     "static/js/main.def8f6ce.chunk.js"
   ]
 }
